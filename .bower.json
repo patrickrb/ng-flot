@@ -1,5 +1,5 @@
 {
-  "name": "angular-flot",
+  "name": "ng-flot",
   "version": "0.0.1",
   "main": ["jquery.flot.js", "jquery.flot.pie.js"],
   "dependencies": {

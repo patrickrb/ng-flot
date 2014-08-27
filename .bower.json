@@ -1,6 +1,6 @@
 {
-  "name": "Flot",
-  "version": "0.8.3",
+  "name": "angular-flot",
+  "version": "0.0.1",
   "main": ["jquery.flot.js", "jquery.flot.pie.js"],
   "dependencies": {
     "jquery": ">= 1.2.6"

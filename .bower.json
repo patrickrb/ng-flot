@@ -1,7 +1,7 @@
 {
   "name": "ng-flot",
   "version": "0.0.1",
-  "main": ["jquery.flot.js", "jquery.flot.pie.js"],
+  "main": ["jquery.flot.js", "jquery.flot.pie.js", "jquery.flot.time.js"],
   "dependencies": {
     "jquery": ">= 1.2.6"
   }
